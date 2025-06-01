@@ -75,16 +75,16 @@ http://localhost:3001/faculty
 5.Screenshots
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+
 ![Home Screen](lib/screenshots/ss1.png)
 
-### ➕ Add Faculty Screen
+
 ![Delete Faculty](lib/screenshots/ss2.png)
 
-### 📝 Faculty Detail / Edit Screen
+
 ![Add Faculty](lib/screenshots/ss3.png)
 
-### 🔧 Mock API Running
+
 ![Add Faculty](lib/screenshots/ss4.png)
 
 
