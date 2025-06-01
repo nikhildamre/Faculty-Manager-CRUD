@@ -1,5 +1,10 @@
 # 🎓 Faculty Management App (Flutter Internship Project - Getfly Technologies)
 
+Android App APK - ## Download APK
+
+Download the latest APK from the [Releases page](https://github.com/yourusername/yourrepo/releases)
+
+
 This is a Flutter-based Android app that performs **CRUD operations** on a mock faculty database using **Mockoon** as the backend API. It satisfies all requirements outlined in the Getfly Technologies internship assignment.
 
 ---
