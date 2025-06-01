@@ -79,13 +79,13 @@ http://localhost:3001/faculty
 ![Home Screen](lib/screenshots/ss1.png)
 
 ### ➕ Add Faculty Screen
-![Add Faculty](lib/screenshots/ss2.png)
+![Delete Faculty](lib/screenshots/ss2.png)
 
 ### 📝 Faculty Detail / Edit Screen
-![Edit Faculty](lib/screenshots/ss3.png)
+![Add Faculty](lib/screenshots/ss3.png)
 
 ### 🔧 Mock API Running
-![Mock API](lib/screenshots/ss4.png)
+![Add Faculty](lib/screenshots/ss4.png)
 
 
 Developed With
