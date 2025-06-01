@@ -76,16 +76,15 @@ http://localhost:3001/faculty
 ## 📸 Screenshots
 
 
-![Home Screen](lib/screenshots/ss1.png)
+## 📸 Screenshots
 
 
-![Delete Faculty](lib/screenshots/ss2.png)
+|------------------------------------|----------------------------------------|
+| ![Home](lib/screenshots/ss1.png)   | ![Add](lib/screenshots/ss2.png)        |
 
+|------------------------------------|----------------------------------------|
+| ![Edit](lib/screenshots/ss3.png)   | ![Mock API](lib/screenshots/ss4.png)   |
 
-![Add Faculty](lib/screenshots/ss3.png)
-
-
-![Add Faculty](lib/screenshots/ss4.png)
 
 
 Developed With
