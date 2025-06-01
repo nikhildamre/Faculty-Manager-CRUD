@@ -4,18 +4,19 @@ This is a Flutter-based Android app that performs **CRUD operations** on a mock 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 lib/
-┣ models/
-┃ ┗ faculty_model.dart # Faculty data model
-┣ services/
-┃ ┗ api_service.dart # Handles API requests (GET, POST)
-┣ screens/
-┃ ┣ home_screen.dart # Lists all faculty entries
-┃ ┣ add_faculty_screen.dart # Add new faculty via form
-┃ ┗ edit_faculty_screen.dart
-┣ main.dart # App entry point
+- models/
+  - faculty_model.dart       # Faculty data model
+- services/
+  - api_service.dart         # Handles API requests (GET, POST)
+- screens/
+  - home_screen.dart         # Lists all faculty entries
+  - add_faculty_screen.dart  # Add new faculty via form
+  - edit_faculty_screen.dart # Edit existing faculty
+- main.dart                  # App entry point
+
 
 
 ---
@@ -79,11 +80,11 @@ http://localhost:3001/faculty
 ## 📸 Screenshots
 
 
-|------------------------------------|----------------------------------------|
-| ![Home](lib/screenshots/ss1.png)   | ![Add](lib/screenshots/ss2.png)        |
+ ![Home](lib/screenshots/ss1.png)  
+ ![edit](lib/screenshots/ss2.png)        
 
-|------------------------------------|----------------------------------------|
-| ![Edit](lib/screenshots/ss3.png)   | ![Mock API](lib/screenshots/ss4.png)   |
+ ![delete](lib/screenshots/ss3.png)    
+ ![add](lib/screenshots/ss4.png)   
 
 
 
